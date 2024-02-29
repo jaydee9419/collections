@@ -1,0 +1,38 @@
+collections
+==============
+1. List
+2. Tuple
+3. Set
+4. Dictionary
+------------------------------------
+
+1. List
+===============
+--> a list is a collection which is ordered and changeable.
+--> in python list are written in square brackets "[ ]"
+--> list is mutable
+
+2. Tuple
+===============
+--> a tuple is a collection which is ordered and unchangeable.
+--> in python tuple are written with round brackets "( )"
+--> tuple is immutable.
+    immutable means:
+    ------------------
+    -> we can not modify exiting value
+    -> we can not append new value
+    -> we can not insert a new value
+    -> we can not remove a value
+
+3. Set
+=================
+--> a set is a collection which is unordered and un-indexed.
+--> in python sets are written with curly brackets "{ }"
+--> sets are mutable.
+
+4. Dictionary
+=================
+--> a dictionary is a collection which is unordered and indexed.
+--> in python dictionaries are written with curly brackets and they have key and pair value.
+--> dictionaries are mutable
+
